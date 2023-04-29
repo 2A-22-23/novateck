@@ -104,9 +104,9 @@
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 2-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="ajouteradmin.php">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="afficherbook.php">
                               <div class="portfolio-hover">
-                               <a href="ajouteradmin.php">
+                               <a href="afficherbook.php">
                                
                               </div>
                               <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="...">
